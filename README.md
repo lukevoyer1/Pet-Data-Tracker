@@ -2,7 +2,7 @@
 
 This project is a **No-Code/Low-Code Pet Tracker** using **Google Sheets, Zapier, GlideApps, and Looker Studio** to help pet owners manage their pet's **health, expenses, and appointments**.
 
-## 🔹 Features
+##  Features
 **Pet Profile Management** (Owner, pet details, medical history)  
  **Vet & Grooming Reminders** (Automated via **Zapier**)  
 **Expense Tracking** (**Google Sheets + Looker Studio**)  
